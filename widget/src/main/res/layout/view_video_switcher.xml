@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/switcher_ll_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_video_format_switcher"
+        android:orientation="vertical"></LinearLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+
+        <TextView
+            android:id="@+id/switcher_tv_tab"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_gravity="center_horizontal"
+            android:drawablePadding="3dp"
+            android:drawableRight="@drawable/ic_video_switcher_prior"
+            android:gravity="right|center_vertical"
+            android:singleLine="true"
+            android:text="@string/video_tab"
+            android:textColor="@color/selector_video_switcher_item_text"
+            android:textSize="@dimen/text_size_12"
+            android:visibility="visible" />
+
+    </FrameLayout>
+
+</LinearLayout>

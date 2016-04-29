@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--com.lvchuang.widget.guide.appintro model resource-->
+    <dimen name="appIntroDefaultPaddingLeft">80dp</dimen>
+    <dimen name="appIntroDefaultPaddingRight">80dp</dimen>
+</resources>

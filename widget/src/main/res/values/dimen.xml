@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--com.lvchuang.widget.guide.appintro models resource-->
+    <dimen name="appIntroBottomBarHeight">64dp</dimen>
+    <dimen name="appIntro2BottomBarHeight">80dp</dimen>
+
+    <dimen name="appIntroDefaultPaddingTop">40dp</dimen>
+    <dimen name="appIntroDefaultPaddingLeft">16dp</dimen>
+    <dimen name="appIntroDefaultPaddingRight">16dp</dimen>
+    <dimen name="appIntroDefaultPaddingBottom">16dp</dimen>
+
+    <dimen name="appIntroDefaultPaddingBottomIntro1">80dp</dimen>
+    <dimen name="appIntroDefaultPaddingBottomIntro2">96dp</dimen>
+
+    <dimen name="appIntroHeadingTextSize">28dp</dimen>
+
+    <!--video controller-->
+    <dimen name="media_controller_text_size">14sp</dimen>
+    <dimen name="media_controller_seekbar_width">32dip</dimen>
+    <dimen name="media_controller_seekbar_height">32dip</dimen>
+    <dimen name="media_controller_top_margin">80dip</dimen>
+    <dimen name="media_controller_bottom_margin">12dip</dimen>
+    <dimen name="media_controller_view_height">48dip</dimen>
+    <dimen name="media_controller_button_height">52dip</dimen>
+    <dimen name="media_controller_button_width">71dip</dimen>
+
+</resources>

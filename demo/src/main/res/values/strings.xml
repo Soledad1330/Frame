@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <!--Guide Model-->
+    <string name="guide_top_skip">Y U DO DIS TO ME?</string>
+
+    <string name="guide_slide_input_title">Slide: Input Demo</string>
+    <string name="guide_slide_input_description">This slide demonstrates how input is saved over orientation and slide changes.</string>
+    <string name="guide_slide_input_edittext">Type something here.</string>
+    <string name="guide_slide_input_checkbox">Check something</string>
+    <!--Home Model-->
+    <string name="home_menu_left">Menu</string>
+    <string name="home_menu_right">Mine</string>
+    <string name="home_title">主页</string>
+</resources>

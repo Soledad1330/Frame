@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jar</string>
+
+    <string name="video_tab">视频</string>
+    <string name="video_is_playing">正在播放中</string>
+    <string name="video_exit_play">退出播放</string>
+</resources>
